@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: date-test
+Upstream-Contact: SAP Open Source Program Office ospo@sap.com
+Source: https://github.com/SAP-staging/date-test
+
+Files: *
+Copyright: 2024 SAP SE or an SAP affiliate company and date-test contributors.
+License: Apache-2.0
+
